@@ -44,3 +44,11 @@ How? Understand Core Conepts
     Observability
     Complete the Project
         application + package + Build infra + Deploy + Observability
+
+
+Assignment_1
+    Create an AWS account.
+    Download AWS CLI, configure aws profile 
+    Understand Console VS CLI 
+    Download Terraform
+    Create an EC2 instance using Terraform 
