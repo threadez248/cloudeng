@@ -1,0 +1,46 @@
+CloudEngineering.txt
+
+
+
+Why? Get a job in CloudEngineering stream.
+    Systems Engineer 
+    Cloud Engineer 
+    Platform Engineer 
+    DevOps Engineer 
+    Site Reliability Engineer 
+
+What are the expectations?
+Trainer:
+    Organized path to cover all the different streams
+    Presentation, Demo, defined assignments
+
+Trainees:
+    Attend all classes.
+    Be on time.
+    Complete the given assignments.
+    AWS account, Linux bascis 
+    Mock interviews
+    There is no magic, have to burn the candle. 
+
+Our Course Path.
+    
+    Infrastructure vs Application
+    Availability, Scalability, Consistency
+    System vs  Compute resources 
+    Process ?????
+    Cloud + DevOps 
+    Life cycle of managing component
+    Cloud, Source Code repository, IAC, Configuration management, CICD
+
+    
+    
+How? Understand Core Conepts 
+    Systems/Cloud 
+    Network
+    Application
+    Database/Dataset
+    Security
+    DevOps tool suite 
+    Observability
+    Complete the Project
+        application + package + Build infra + Deploy + Observability
